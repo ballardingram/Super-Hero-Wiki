@@ -44,11 +44,13 @@ We also found just as many successes to bring the project together.
 ## Product Images
 
 ### Preview of the Site
+![Preview of the Site](https://github.com/ballardingram/Super-Hero-Wiki/blob/main/assets/images/readme0.gif)
 
 ### Popular Movies
+![Popular Movies](https://github.com/ballardingram/Super-Hero-Wiki/blob/main/assets/images/readme1.jpg)
 
 ### Character Search
-
-### Movie List
+![Character Search](https://github.com/ballardingram/Super-Hero-Wiki/blob/main/assets/images/readme2.jpg)
 
 ### DC Comics
+![DC Comics](https://github.com/ballardingram/Super-Hero-Wiki/blob/main/assets/images/readme3.jpg)
