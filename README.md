@@ -9,12 +9,14 @@ You can find the final product at: https://ballardingram.github.io/Super-Hero-Wi
 
 ## Contributions
 Team Alpha Super Awesome Cool Dynamite Wolf Squadron
-*Ballard Ingram
-*Stephen Fike
-*Nathan Greiling
-*Matthew Berti
-*Kevin Heaton
-*Vicente Garcia
+
+>Team Members
+* Ballard Ingram
+* Stephen Fike
+* Nathan Greiling
+* Matthew Berti
+* Kevin Heaton
+* Vicente Garcia
 
 The group worked well together to delegate task and reduce time spent on design and API choice. This afforded us more time to focus on the Javascript and API functions that made the website functional.
 
