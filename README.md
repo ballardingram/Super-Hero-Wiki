@@ -10,7 +10,7 @@ You can find the final product at: https://ballardingram.github.io/Super-Hero-Wi
 ## Contributions
 Team Alpha Super Awesome Cool Dynamite Wolf Squadron
 
->Team Members
+### Team Members
 * Ballard Ingram
 * Stephen Fike
 * Nathan Greiling
